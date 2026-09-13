@@ -12,6 +12,6 @@ public class MainController {
 
     //TODO DB 하고 테이블 설계 대충 하고 프로젝트 시작
 
-    //TODO 코딩테스트 준비
+    //TODO 코딩테스트 준비 -> 반드시해야함.
     //TODO CS 준비 병행
 }
